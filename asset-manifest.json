@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/xlauncher-site/static/css/main.0e5a50d4.css",
+    "main.js": "/xlauncher-site/static/js/main.4eae4dad.js",
+    "static/media/background_1.png": "/xlauncher-site/static/media/background_1.e4f2bdbcedf2dab19112.png",
+    "static/media/background_2.png": "/xlauncher-site/static/media/background_2.9ccc6afe9eb30c7f62ce.png",
+    "static/media/main-image-cheats.jpg": "/xlauncher-site/static/media/main-image-cheats.8e7bb160ac9712557d12.jpg",
+    "static/media/background_3.png": "/xlauncher-site/static/media/background_3.6c1bd05c3a81eb661b25.png",
+    "static/media/Poltik-Bold_0.otf": "/xlauncher-site/static/media/Poltik-Bold_0.7861a92a0806f0558cfe.otf",
+    "static/media/X.png": "/xlauncher-site/static/media/X.bd5c6056cfcb92807391.png",
+    "static/media/ArchiveUkr.ttf": "/xlauncher-site/static/media/ArchiveUkr.988256b05c1ed2897c55.ttf",
+    "static/media/main_image.jpg": "/xlauncher-site/static/media/main_image.128ee9e966a2b54b742f.jpg",
+    "static/media/VK_logo.webp": "/xlauncher-site/static/media/VK_logo.a5a90814a0d4faaaa5aa.webp",
+    "static/media/Wid.otf": "/xlauncher-site/static/media/Wid.99122f732f23478e0673.otf",
+    "index.html": "/xlauncher-site/index.html",
+    "main.0e5a50d4.css.map": "/xlauncher-site/static/css/main.0e5a50d4.css.map",
+    "main.4eae4dad.js.map": "/xlauncher-site/static/js/main.4eae4dad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e5a50d4.css",
+    "static/js/main.4eae4dad.js"
+  ]
+}
